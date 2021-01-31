@@ -32,8 +32,4 @@ Password: Ask Someone on the team
 
 In the documents folder, there are 2 folders which contain code, "3307 Project" and "3307 Project TEST". The first one contains all the live code and will be updated every time a phase is submitted.
 
-**Any Changes for testing on the PI must be made the test folder!!!!**
-
-##
-
-If  you have any questions, feel free to ask any of the team members
+**Any Changes for testing on the PI must be made the test folder!**
