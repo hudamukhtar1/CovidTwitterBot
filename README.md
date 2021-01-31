@@ -27,7 +27,7 @@ To work on the live code/folders on the pi the credentials are the following:
 ```bash
 IP ADDRESS: 10.0.0.110
 Username: pi
-Password: Ask Someone on the team
+Password: ask me!
 ```
 
 In the documents folder, there are 2 folders which contain code, "3307 Project" and "3307 Project TEST". The first one contains all the live code and will be updated every time a phase is submitted.
